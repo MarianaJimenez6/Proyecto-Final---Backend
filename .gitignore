@@ -1,0 +1,25 @@
+# Builds
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Database
+*.db
+ecommerce.db
+
+# Logs
+*.log
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.user
+*.suo
+
+# NuGet
+packages/
+
+# Temporary
+*.tmp
